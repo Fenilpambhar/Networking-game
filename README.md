@@ -33,3 +33,7 @@ If the server is created on one device then the second player can simply run the
 ```shell
 python3 main.py
 ```
+
+
+## Game Demo
+Recorded video for the winning and losing scenarios can be viewed on mp4 files
