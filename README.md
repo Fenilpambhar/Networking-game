@@ -1,5 +1,5 @@
 # Python Deny and Conquer game
-The game can be played by 2 players on individual devices/machine.
+The game can be played by 2 players on individual devices/machine. The project includes socket programming and concurrency control over shared objects.
 
 ### Game Overview
 Each player needs to simpy color the grid tiles to conquer the tile, once the tile is colored more than 50% it will automatically color itself 100%
